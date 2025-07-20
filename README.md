@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Jana Jeevan App**
 
-- 🌱 I’m currently learning **React.js, Flask**
+- 🌱 I’m currently learning **React.js, Flask,Data structure and algorithms **
 
 - 👯 I’m looking to collaborate on **Fullstack project**
 
