@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankitha L G</h1>
-<h3 align="center">I am Student at Dayananda Sagar College Of Engineering</h3>
+<h3 align="center">Student at Dayananda Sagar College Of Engineering</h3>
 
 - 🔭 I’m currently working on **Jana Jeevan App**
 
